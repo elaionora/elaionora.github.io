@@ -1,11 +1,17 @@
 h1{
 	color: darkred;
 }
+body{
+	background-color: black;
+}
+p{
+	color: white;
+}
+h2{
+	color: white;
+}
 .mylogo{
 	width: 30%;
-}
-body{
-	color: black;
 }
 .MgMui{
 	width: 20%;
@@ -21,10 +27,6 @@ body{
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
-}
-.videos{
-	width: 100%;
-	height: 255%;
 }
 .bordervideos{
 	border: red 5px;
